@@ -17,6 +17,6 @@ marks = {
 collection_of_coins = {1, 2, 25}
 
 sorted_variables = {
-    "mutable":  [my_favourite_films, marks, collection_of_coins], #set, dict, list
-    "immutable": [profile_info, name, one_is_a_prime_number, pi, lucky_number] #int, str, boolean, tuple, float
+    "mutable":  [my_favourite_films, marks, collection_of_coins],
+    "immutable": [profile_info, name, one_is_a_prime_number, pi, lucky_number]
 }
